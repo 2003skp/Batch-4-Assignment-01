@@ -1,0 +1,467 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.happy-year {
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    transform: translate(-60%, -60%);
+}
+
+.new {
+    text-align: center;
+    color: red;
+    font-size: 10px;
+}
+
+.content {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+
+.holi {
+    text-align: center;
+}
+
+.box-title {
+    position: absolute;
+    color: white;
+    top: 60%;
+    left: 50%;
+    font-size: 40px;
+    transform: translate(-60%, -60%);
+
+}
+
+.day {
+    position: absolute;
+    color: white;
+    top: 65%;
+    left: 50%;
+    font-size: 40px;
+    transform: translate(-60%, -60%);
+}
+
+.date {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.public {
+    display: flex;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hello {
+    background-color: red;
+    margin-top: 10%;
+    border-radius: 5px;
+
+}
+
+.group {
+    position: absolute;
+    width: 319.83px;
+    height: 464.66px;
+    top: 185%;
+    left: 63%;
+}
+
+.name {
+    position: absolute;
+    color: white;
+    top: 200%;
+    left: 10%;
+    font-size: 50px;
+}
+
+.my-name {
+    position: absolute;
+    color: white;
+    top: 210%;
+    left: 10%;
+    font-size: 50px;
+}
+
+.dolor {
+    position: absolute;
+    color: white;
+    top: 225%;
+    left: 10%;
+    font-size: 15px;
+}
+
+.btn {
+    position: absolute;
+    top: 240%;
+    left: 15%;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+
+
+}
+
+.main {
+    background-color: rgb(228, 199, 199);
+    height: 482px;
+    width: 1350px;
+    border-radius: 20px;
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+
+.night {
+    color: red;
+}
+
+.join {
+    position: absolute;
+    top: 280%;
+    left: 40%;
+    font-size: 40px;
+
+}
+
+.december {
+    position: absolute;
+    top: 290%;
+    left: 35%;
+    font-size: 40px;
+}
+
+.evening {
+    position: absolute;
+    top: 300%;
+    left: 30%;
+    font-size: 40px;
+}
+
+.place {
+    position: absolute;
+    top: 325%;
+    left: 40%;
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.ellipse {
+    display: flex;
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid red;
+    border-radius: 280px;
+    padding: 30px;
+    width: 463px;
+    height: 463px;
+}
+
+.best {
+    position: absolute;
+    top: 385%;
+    left: 10%;
+    color: red;
+    font-size: 10px;
+
+}
+
+.coming {
+    position: absolute;
+    top: 387%;
+    left: 10%;
+    font-size: 30px;
+}
+
+.style {
+    position: absolute;
+    top: 397%;
+    left: 10%;
+}
+
+.amet {
+    position: absolute;
+    top: 370%;
+    left: 75%;
+    color: red;
+    font-size: 60px;
+}
+
+.soon {
+    position: absolute;
+    top: 390%;
+    left: 75%;
+}
+
+.sed {
+    position: absolute;
+    top: 405%;
+    left: 75%;
+
+}
+
+.functional {
+    position: absolute;
+    top: 440%;
+    left: 45%;
+    font-size: 15px;
+
+}
+
+.euismod {
+    position: absolute;
+    top: 442%;
+    left: 37%;
+    font-size: 50px;
+}
+
+.eleifend {
+    color: red;
+}
+
+.consequat {
+    position: absolute;
+    top: 460%;
+    left: 37%;
+
+}
+
+.molestie {
+    position: absolute;
+    top: 462%;
+    left: 30%;
+}
+
+.fermentum {
+    position: absolute;
+    top: 465%;
+    left: 45%;
+}
+
+.design {
+    position: absolute;
+    top: 520%;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+.gift {
+    position: absolute;
+    top: 470%;
+}
+
+.girls {
+    position: absolute;
+    top: 480%;
+    left: 60%;
+}
+
+.persent {
+    position: absolute;
+    top: 488%;
+    left: 50%;
+}
+
+.assets {
+    position: absolute;
+    color: red;
+    top: 560%;
+    left: 10%;
+    font-size: 10px;
+}
+
+.awesome {
+    position: absolute;
+    top: 561%;
+    left: 10%;
+    font-size: 30px;
+}
+
+.consectetur {
+    position: absolute;
+    top: 570%;
+    left: 10%;
+}
+
+.more {
+    position: absolute;
+    top: 578%;
+    left: 10%;
+}
+
+.sodales {
+    position: absolute;
+    top: 578%;
+    left: 40%;
+}
+
+.cloudy {
+    position: absolute;
+    top: 578%;
+    left: 70%;
+}
+
+.portfolio {
+    position: absolute;
+    top: 642%;
+    left: 10%;
+}
+
+.banner {
+    position: absolute;
+    top: 642%;
+    left: 40%;
+}
+
+.benner-title {
+    position: absolute;
+    top: 642%;
+    left: 70%;
+}
+
+.box {
+    position: absolute;
+    top: 10%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.letter {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    font-size: 30px;
+}
+
+.sub-btn {
+    position: absolute;
+    top: 48%;
+    left: 37%;
+}
+
+.web-site {
+    position: absolute;
+    top: 53%;
+    left: 45%;
+}
+
+.rong {
+    position: absolute;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    left: 160%;
+}
+
+.user {
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    font-size: 30px;
+    border: none;
+    background: none;
+}
+
+.come {
+    background-color: black;
+    height: 482px;
+    width: 1350px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 2500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ferment {
+    position: absolute;
+    top: 790%;
+    left: 10%;
+    color: white;
+    font-size: 15px;
+}
+
+.home {
+    position: absolute;
+    top: 810%;
+    left: 40%;
+}
+
+.right {
+    position: absolute;
+    top: 830%;
+    left: 10%;
+    color: white;
+    font-size: 15px;
+
+}
+
+.call {
+    position: absolute;
+    top: 793%;
+    left: 70%;
+}
+
+.haze {
+    position: absolute;
+    color: white;
+    top: 792%;
+    left: 72%;
+    font-size: 15px;
+}
+
+.spaces {
+    position: absolute;
+    top: 798%;
+    left: 70%;
+}
+
+.building {
+    position: absolute;
+    color: white;
+    top: 797%;
+    left: 72%;
+    font-size: 15px;
+}
+
+.meterial {
+    position: absolute;
+    color: white;
+    top: 830%;
+    left: 72%;
+    font-size: 15px;
+}
+
+.main-sec {
+    position: absolute;
+    top: 710%;
+    left: 5%;
+    background-color: rgb(228, 199, 199);
+    height: 482px;
+    width: 1350px;
+    border-radius: 25px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
